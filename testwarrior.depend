@@ -1,0 +1,464 @@
+# depslib dependency file v1.0
+1653412328 source:d:\bai\testwarrior\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"renderbackground.h"
+	"initbasepos.h"
+	"renderbase.h"
+	"Initall.h"
+	"inittrooppos.h"
+	"rendertroop.h"
+	"inittroop.h"
+	"handleevent.h"
+	"SpawnTroop.h"
+	"Spawnarrow.h"
+	"RenderArrow.h"
+	"RenderEffect.h"
+	"SpawnEffect.h"
+	"RenderMenuBar.h"
+	"RenderHealthBar.h"
+	"renderResource.h"
+	<windows.h>
+
+1653411455 d:\bai\testwarrior\initsdl.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+
+1648607799 d:\bai\testwarrior\initwarriorpos.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1648914256 d:\bai\testwarrior\initenemypos.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1648950404 d:\bai\testwarrior\spawnenemy.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"ResetEnemy.h"
+	"random.h"
+
+1648914172 d:\bai\testwarrior\resetenemy.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1648730137 d:\bai\testwarrior\renderplayer.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"ProcessPlayer.h"
+
+1648809463 d:\bai\testwarrior\processplayer.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"deleteenemy.h"
+	"RenderBeingHitted.h"
+
+1648914416 d:\bai\testwarrior\renderenemy.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"ResetEnemy.h"
+	"InitSDL.h"
+
+1648914209 d:\bai\testwarrior\processenemy.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"ResetEnemy.h"
+	"InitSDL.h"
+	"ProcessPlayer.h"
+	"random.h"
+	"renderBeinghitted.h"
+	"InitArrow.h"
+
+1652523315 d:\bai\testwarrior\random.h
+	<cstdlib>
+	<ctime>
+
+1648625293 d:\bai\testwarrior\renderplayerhp.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"ProcessPlayer.h"
+
+1648629521 d:\bai\testwarrior\deleteenemy.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"ResetEnemy.h"
+	"InitSDL.h"
+
+1648629463 d:\bai\testwarrior\renderdeadth.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1648639117 d:\bai\testwarrior\renderbeinghitted.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1648687326 d:\bai\testwarrior\resetdata.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653401838 d:\bai\testwarrior\initall.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"InitBasepos.h"
+	"Inittrooppos.h"
+	"inittroop.h"
+	"initarrow.h"
+	"InitArrowPOs.h"
+	"InitEffectpos.h"
+	"InitEffect.h"
+	"InitBase.h"
+	"RenderButton.h"
+	"InitTroopBlock.h"
+	"InitButtonPos.h"
+	"InitResource.h"
+	"InitCostTroop.h"
+	"InitUpdate.h"
+	"InitCostUpdate.h"
+
+1652432544 d:\bai\testwarrior\initarrow.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653275977 d:\bai\testwarrior\renderarrow.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"InitArrow.h"
+	"ProcessArrow.h"
+	"InitArrowPOs.h"
+
+1648687390 d:\bai\testwarrior\renderhealing.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1652263402 d:\bai\testwarrior\renderbackground.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+
+1653212711 d:\bai\testwarrior\getmousepos.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1652171042 d:\bai\testwarrior\initbasepos.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653276019 d:\bai\testwarrior\renderbase.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"ProcessBase.h"
+	"RenderButton.h"
+
+1653136075 d:\bai\testwarrior\inittrooppos.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+
+1653275933 d:\bai\testwarrior\rendertroop.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"inittroop.h"
+	"processtroop.h"
+
+1652777031 d:\bai\testwarrior\inittroop.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653400610 d:\bai\testwarrior\handleevent.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"SpawnTroop.h"
+	"random.h"
+	"SpawnEffect.h"
+	"getmousepos.h"
+	"RenderButton.h"
+	"InitUpdate.h"
+	"ProcessUpdate.h"
+
+1653384253 d:\bai\testwarrior\spawntroop.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"InitTroop.h"
+	"random.h"
+	"InitCostTroop.h"
+
+1653399777 d:\bai\testwarrior\processtroop.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"inittroop.h"
+	"spawnarrow.h"
+	"spawneffect.h"
+	"InitBase.h"
+
+1653136969 d:\bai\testwarrior\spawnarrow.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"InitArrow.h"
+
+1653386786 d:\bai\testwarrior\processarrow.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"InitArrow.h"
+	"spawneffect.h"
+
+1653135474 d:\bai\testwarrior\initarrowpos.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1652631821 d:\bai\testwarrior\initeffectpos.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+
+1652632105 d:\bai\testwarrior\initeffect.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653275953 d:\bai\testwarrior\rendereffect.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"InitEffectPos.h"
+	"InitEffect.h"
+	"ProcessEffect.h"
+
+1652438957 d:\bai\testwarrior\processeffect.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"InitEffectPos.h"
+	"InitEffect.h"
+
+1652632119 d:\bai\testwarrior\spawneffect.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"InitEffect.h"
+
+1653212428 d:\bai\testwarrior\rendermenubar.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+
+1653234088 d:\bai\testwarrior\initbase.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653233983 d:\bai\testwarrior\processbase.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"InitBasepos.h"
+	"InitBase.h"
+
+1653236725 d:\bai\testwarrior\renderhealthbar.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+
+1653389167 d:\bai\testwarrior\renderbutton.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+	"getmousepos.h"
+	"InitTroopBlock.h"
+	"InitButtonPos.h"
+	"ProcessNumber.h"
+	"InitCostTroop.h"
+	"InitCostUpdate.h"
+	"InitUpdate.h"
+
+1653306412 d:\bai\testwarrior\inittroopblock.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653378533 d:\bai\testwarrior\initbuttonpos.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"InitSDL.h"
+
+1653412165 d:\bai\testwarrior\initresource.h
+	<bits/stdc++.h>
+	"InitResource.h"
+	"InitCostUpdate.h"
+
+1653381384 d:\bai\testwarrior\renderresource.h
+	<bits/stdc++.h>
+	"InitSDL.h"
+	"ProcesResource.h"
+	"ProcessNumber.h"
+	"InitResource.h"
+	"InitButtonPos.h"
+	"ProcesResource.h"
+
+1653407112 d:\bai\testwarrior\procesresource.h
+	<bits/stdc++.h>
+	"InitResource.h"
+
+1653382726 d:\bai\testwarrior\processnumber.h
+	<bits/stdc++.h>
+
+1653392456 d:\bai\testwarrior\initcosttroop.h
+	<bits/stdc++.h>
+
+1653412125 d:\bai\testwarrior\initupdate.h
+	<bits/stdc++.h>
+	"InitSDL.h"
+
+1653407127 d:\bai\testwarrior\processupdate.h
+	<bits/stdc++.h>
+	"InitUpdate.h"
+
+1653388344 d:\bai\testwarrior\initcostupdate.h
+	<bits/stdc++.h>
+

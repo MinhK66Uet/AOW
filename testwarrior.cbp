@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="testwarrior" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/testwarrior" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/testwarrior" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="InitAll.h" />
+		<Unit filename="InitArrow.h" />
+		<Unit filename="InitArrowPos.h" />
+		<Unit filename="InitBase.h" />
+		<Unit filename="InitButtonPos.h" />
+		<Unit filename="InitCostTroop.h" />
+		<Unit filename="InitCostUpdate.h" />
+		<Unit filename="InitEffect.h" />
+		<Unit filename="InitEffectPos.h" />
+		<Unit filename="InitResource.h" />
+		<Unit filename="InitSDL.h" />
+		<Unit filename="InitTroopBlock.h" />
+		<Unit filename="InitUpdate.h" />
+		<Unit filename="ProcesResource.h" />
+		<Unit filename="ProcessArrow.h" />
+		<Unit filename="ProcessBase.h" />
+		<Unit filename="ProcessEffect.h" />
+		<Unit filename="ProcessNumber.h" />
+		<Unit filename="ProcessUpdate.h" />
+		<Unit filename="RenderArrow.h" />
+		<Unit filename="RenderButton.h" />
+		<Unit filename="RenderEffect.h" />
+		<Unit filename="RenderHealthBar.h" />
+		<Unit filename="RenderMenuBar.h" />
+		<Unit filename="RenderResource.h" />
+		<Unit filename="SpawnEffect.h" />
+		<Unit filename="SpawnTroop.h" />
+		<Unit filename="getmousepos.h" />
+		<Unit filename="handleevent.h" />
+		<Unit filename="initbasepos.h" />
+		<Unit filename="inittroop.h" />
+		<Unit filename="inittrooppos.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="processtroop.h" />
+		<Unit filename="random.h" />
+		<Unit filename="renderbackground.h" />
+		<Unit filename="renderbase.h" />
+		<Unit filename="rendertroop.h" />
+		<Unit filename="spawnarrow.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
